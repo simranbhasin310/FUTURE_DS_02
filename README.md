@@ -54,22 +54,15 @@ The calculated rate rounds to **26.5%**, consistent with the source-reported rat
 
 The supplied file contains aggregate totals and written segment insights, but **no customer-level records or segment counts**. The segment insights are preserved as provided and cannot be independently verified from the available data. This is a descriptive dashboard; it does **not** include a churn prediction model.
 
-## 👤 Author
+## 👩‍💻 Author
 
-<div align="center">
+**Simran Bhasin**  
+*Future Interns · Data Science & Analytics Internship — Task 2*
 
-**Simran Bhasin**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranbhasin310/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/simranbhasin310/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:simranbhasin310@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/simranbhasin310/SimranBhasin310.github.io)
-
-</div>
-
----
-
-<div align="center">
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/simranbhasin310/)
+- **GitHub:** [View my GitHub profile](https://github.com/simranbhasin310/)
+- **Email:** [Contact me](mailto:simranbhasin310@gmail.com)
+- **Portfolio:** [Visit my portfolio](https://simranbhasin310.github.io/)
 
 ---
 
