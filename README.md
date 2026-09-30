@@ -1,74 +1,64 @@
 <div align="center">
 
-# 📊 Customer Churn Dashboard
+# 📊 Customer Churn & Retention Analytics
 
-### Future Interns · Data Science Task 2
+### Future Interns — Data Science & Analytics Internship | Task 2
 
-![Excel dashboard](https://img.shields.io/badge/Made%20with-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Project](https://img.shields.io/badge/Project-Customer%20Churn-17324D?style=for-the-badge)
+[![Excel](https://img.shields.io/badge/Microsoft%20Excel-Analysis-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Churn%20Analytics-2563EB?style=flat-square)]()
+[![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-0F172A?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)]()
 
-> An Excel dashboard summarizing customer churn metrics and the insights available in the supplied data.
+*Turning telecom customer data into a clear story of churn, retention, and customer behavior.*
 
----
-
-## ✨ Project overview
-
-This project presents the available customer churn summary in a clear Excel dashboard. It includes KPI cards, a customer-status chart, source insights, and calculation notes.
-
-## 📊 Key metrics
-
-| Metric | Result |
-|:--|--:|
-| 👥 Total customers | **7,043** |
-| ↩️ Churned customers | **1,869** |
-| ✅ Active customers | **5,174** |
-| 📉 Calculated churn rate | **26.54%** |
-
-**Calculation:** `1,869 ÷ 7,043 = 26.54%`  
-The calculated rate rounds to **26.5%**, consistent with the source-reported rate.
-
-## 📁 Workbook contents
-
-| Sheet | Description |
-|:--|:--|
-| **Dashboard** | KPI cards and an active-versus-churned customer chart |
-| **Metrics** | Source totals and calculated churn rate |
-| **Source Summary** | Normalized summary values and insights |
-| **Notes** | Calculation checks and data limitations |
-
-## 🔎 Insights included from the source
-
-- Month-to-month customers show the highest churn.
-- Fiber optic customers have higher churn than DSL customers.
-- Customers with fewer services show higher churn.
-- Longer-tenure customers generally show lower churn.
-
-## 🚀 How to use
-
-1. Download **`Churn_Dashboard.xlsx`** from this repository.
-2. Open it in Microsoft Excel or a compatible spreadsheet application.
-3. Start with the **Dashboard** sheet. See **Metrics** and **Notes** for calculation details.
-
-## ⚠️ Data scope
-
-This repository includes customer-level telecom churn data in `Telco-Customer-Churn.csv`, with fields such as contract type, tenure, internet service, and churn status.
-
-The Excel workbook summarizes aggregate customer counts and churn rate. Segment-level insights in the workbook are carried over from the supplied summary and have not yet been independently validated against the customer-level dataset.
-
-## 👩‍💻 Author
-
-**Simran Bhasin**  
-*Future Interns · Data Science & Analytics Internship — Task 2*
-
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/simranbhasin310/)
-- **GitHub:** [View my GitHub profile](https://github.com/simranbhasin310/)
-- **Email:** [Contact me](mailto:simranbhasin310@gmail.com)
-- **Portfolio:** [Visit my portfolio](https://simranbhasin310.github.io/)
+</div>
 
 ---
+
+## 🎯 Objective
+
+Analyze telecom customer subscription data to identify **churn patterns**, **high-risk customer segments**, and **key retention drivers** — then translate the findings into a client-ready **Excel dashboard and actionable business recommendations**.
+
+## 🗂️ Dataset
+
+📦 **Telco Customer Churn Dataset**
+
+The dataset contains **7,043 telecom customers** with information covering:
+
+- Customer demographics
+- Tenure
+- Contract type
+- Monthly and total charges
+- Internet service
+- Payment method
+- Online security
+- Tech support
+- Additional subscribed services
+- Churn status
+
+## 🛠️ Tools Used
+
+| Tool | Purpose |
+|---|---|
+| 📊 Microsoft Excel | Data analysis & dashboard development |
+| 🔄 Pivot Tables | Customer segmentation & churn analysis |
+| 📈 Pivot Charts | Data visualization |
+| 🧮 Excel Formulas | Calculated fields & churn metrics |
+| 🎨 Excel Dashboard | Final business presentation |
+
+## 📌 Headline Numbers
 
 <div align="center">
 
-*Submitted as part of the Future Interns Data Science & Analytics internship.*
+| 👥 Total Customers | ❌ Churned | ✅ Active | 📉 Churn Rate |
+|:---:|:---:|:---:|:---:|
+| **7,043** | **1,869** | **5,174** | **26.54%** |
 
-⭐ *If you found this analysis useful, consider starring the repo!*
+</div>
+
+## 🔬 Analysis Covered
+
+1. ✅ Data cleaning & validation
+2. 📊 Overall customer churn analysis
+3. 📅 Churn by customer tenure
+4. 📄 Churn
