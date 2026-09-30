@@ -45,7 +45,7 @@ The calculated rate rounds to **26.5%**, consistent with the source-reported rat
 
 ## 🚀 How to use
 
-1. Download **`Churn_Dashboard_Final_v2.xlsx`** from this repository.
+1. Download **`Churn_Dashboard.xlsx`** from this repository.
 2. Open it in Microsoft Excel or a compatible spreadsheet application.
 3. Start with the **Dashboard** sheet. See **Metrics** and **Notes** for calculation details.
 
