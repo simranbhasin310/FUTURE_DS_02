@@ -51,7 +51,9 @@ The calculated rate rounds to **26.5%**, consistent with the source-reported rat
 
 ## ⚠️ Data scope
 
-The supplied file contains aggregate totals and written segment insights, but **no customer-level records or segment counts**. The segment insights are preserved as provided and cannot be independently verified from the available data. This is a descriptive dashboard; it does **not** include a churn prediction model.
+This repository includes customer-level telecom churn data in `Telco-Customer-Churn.csv`, with fields such as contract type, tenure, internet service, and churn status.
+
+The Excel workbook summarizes aggregate customer counts and churn rate. Segment-level insights in the workbook are carried over from the supplied summary and have not yet been independently validated against the customer-level dataset.
 
 ## 👩‍💻 Author
 
