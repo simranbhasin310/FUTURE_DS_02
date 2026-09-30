@@ -6,7 +6,6 @@
 
 ![Excel dashboard](https://img.shields.io/badge/Made%20with-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Project](https://img.shields.io/badge/Project-Customer%20Churn-17324D?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-278C91?style=for-the-badge)
 
 > An Excel dashboard summarizing customer churn metrics and the insights available in the supplied data.
 
