@@ -1,143 +1,205 @@
+rstand how customer characteristics and subscription choices relate to churn.
+
+🛠️ Tools Used
+
+Tool
+
+Purpose
+
+📊 Microsoft Excel
+
+Data cleaning, analysis & dashboard
+
+🔄 Pivot Tables
+
+Churn segmentation & aggregation
+
+📈 Pivot Charts
+
+Data visualization
+
+🧮 Excel Formulas
+
+Calculated fields & metrics
+
+🎨 Excel Dashboard
+
+Final business presentation
+
+📌 Headline Numbers
+
 <div align="center">
-📊 Customer Churn & Retention Analytics
-Future Interns — Data Science & Analytics Internship | Task 2
 
+👥 Total Customers
 
+❌ Churned
 
+✅ Active
 
+📉 Churn Rate
 
-Turning telecom customer data into a clear story of churn, retention, and customer behavior.
+7,043
+
+1,869
+
+5,174
+
+26.54%
+
 </div>
 
-🎯 Objective
-Analyze telecom customer subscription data to identify churn patterns, high-risk customer segments, and key retention drivers — then translate the findings into a client-ready Excel dashboard and actionable business recommendations.
-🗂️ Dataset
-📦 Telco Customer Churn Dataset
-The dataset contains 7,043 telecom customers with information covering:
-- Customer demographics
-- Tenure
-- Contract type
-- Monthly and total charges
-- Internet service
-- Payment method
-- Online security
-- Tech support
-- Additional subscribed services
-- Churn status
-🛠️ Tools Used
-Tool	Purpose
-📊 Microsoft Excel	Data analysis & dashboard development
-🔄 Pivot Tables	Customer segmentation & churn analysis
-📈 Pivot Charts	Data visualization
-🧮 Excel Formulas	Calculated fields & churn metrics
-🎨 Excel Dashboard	Final business presentation📌 Headline Numbers
-<div align="center">
-👥 Total Customers	❌ Churned	✅ Active	📉 Churn Rate
-7,043	1,869	5,174	26.54%</div>
 🔬 Analysis Covered
-1. ✅ Data cleaning & validation
-2. 📊 Overall customer churn analysis
-3. 📅 Churn by customer tenure
-4. 📄 Churn by contract type
-5. 🌐 Churn by internet service
-6. 💰 Churn by monthly charges
-7. 💳 Churn by payment method
-8. 🔐 Churn by online security
-9. 🛠️ Churn by tech support
-10. 📦 Churn by total services
-11. 💡 Retention insights & business recommendations
+
+#
+
+Analysis
+
+01
+
+📊 Overall customer churn
+
+02
+
+📄 Churn by contract type
+
+03
+
+📅 Churn by customer tenure
+
+04
+
+🌐 Churn by internet service
+
+05
+
+💰 Churn by monthly charges
+
+06
+
+💳 Churn by payment method
+
+07
+
+🔐 Churn by online security
+
+08
+
+🛠️ Churn by tech support
+
+09
+
+📦 Churn by total services
+
+10
+
+💡 Retention opportunities
+
 🧹 Data Preparation
-The dataset was validated before analysis to ensure reliable results.
-- 🔍 Duplicate Customer IDs checked — 0 duplicates
-- 🔍 TotalCharges checked for blanks/spaces
-- 🔍 Churn values validated as Yes / No
-- 🧮 Created Churn Flag
-- 📅 Created Tenure Groups
-- 💰 Created Monthly Charges Groups
-- 📦 Created Total Services field
+
+Before building the dashboard, the dataset was validated and prepared for analysis.
+
+✅ Duplicate Customer IDs checked — 0 duplicates
+
+✅ TotalCharges checked for blanks/spaces
+
+✅ Churn values validated — Yes / No
+
+🧮 Created Churn Flag
+
+📅 Created Tenure Groups
+
+💰 Created Monthly Charges Groups
+
+📦 Created Total Services
 
 💡 Key Insights
-📉 Overall churn — 1,869 out of 7,043 customers have churned, resulting in an overall churn rate of 26.54%.
 
-📄 Contract type — Month-to-month customers account for a large share of churn compared with customers on longer-term contracts.
+📉 Churn Rate — 1,869 of 7,043 customers have churned, resulting in an overall churn rate of 26.54%.
 
-📅 Tenure — Churn is particularly visible among customers in the earlier stages of their relationship, highlighting the importance of early customer retention.
+📄 Contract Type — Month-to-month customers account for a large share of churn compared with customers on longer-term contracts.
 
-🌐 Internet service — Churn patterns differ substantially across DSL, Fiber optic, and customers without internet service.
+📅 Tenure — Churn is particularly visible during the earlier stages of the customer relationship, making early engagement an important retention consideration.
 
-💰 Monthly charges — Higher monthly charge segments show noticeable differences in churn patterns, particularly when considered alongside contract type.
+🌐 Internet Service — Churn patterns vary considerably across DSL, Fiber optic, and customers without internet service.
 
-🔐 Additional services — Customers with different combinations of services such as Online Security and Tech Support show different churn patterns.
+💰 Monthly Charges — Higher monthly charge segments show noticeable differences in churn patterns, especially when considered alongside contract type.
 
-📦 Service adoption — The number of subscribed services provides another useful dimension for understanding customer retention behavior.
+🔐 Additional Services — Online Security and Tech Support show different churn patterns across customer groups.
+
+📦 Service Adoption — The number of subscribed services provides another useful dimension for understanding customer retention behavior.
+
+📊 Dashboard Preview
+
+<div align="center">
 
 
-📊 Dashboard
-The Excel dashboard brings the major churn metrics and customer behavior patterns together in one view.
-Dashboard Analysis Includes
-- 📌 Overall Churn Overview
-- 📌 Churn by Contract
-- 📌 Churn by Tenure
-- 📌 Churn by Internet Service
-- 📌 Churn by Monthly Charges
-- 📌 Churn by Payment Method
-- 📌 Churn by Online Security
-- 📌 Churn by Tech Support
-- 📌 Churn by Total Services
-📊 The complete analysis and dashboard are available in the Excel workbook included in this repository.
+
+</div>
+
+📥 Download
+
+<div align="center">
+
+⬇️ Download Excel Dashboard
+
+Open the workbook to explore the complete dashboard, Pivot Tables, charts, and analysis.
+
+</div>
+
 💼 Business Recommendations
-🎯 Strengthen early-stage retention — Focus onboarding and engagement efforts on customers during the early months of their relationship.
 
-📄 Encourage longer-term contracts — Explore loyalty benefits and suitable incentives that can encourage customers to move from month-to-month plans to longer-term contracts.
+Opportunity
 
-💰 Monitor high-charge customers — Review customer plans and provide appropriate plan optimization or value-based offers where relevant.
+Recommended Action
 
-🛠️ Improve support experience — Use support-related churn patterns to identify opportunities for proactive technical assistance and faster issue resolution.
+🎯 Early Retention
 
-🔐 Evaluate service bundles — Analyze how additional services such as security and technical support relate to retention and consider targeted bundles where appropriate.
+Strengthen onboarding and engagement during the first months of the customer lifecycle.
 
+📄 Contract Conversion
+
+Explore suitable loyalty benefits and incentives for longer-term contracts.
+
+💰 High-Charge Customers
+
+Review plans and provide appropriate plan-optimization options.
+
+🛠️ Customer Support
+
+Use support-related churn patterns to identify service improvement opportunities.
+
+🔐 Service Bundling
+
+Evaluate targeted bundles involving security, support, and other relevant services.
 
 📁 Repository Structure
+
 FUTURE_DS_02/
 │
 ├── 📊 Churn_Dashboard.xlsx
 ├── 📄 Telco-Customer-Churn.csv
 └── 📖 README.md
-📊 Churn_Dashboard.xlsx
-Contains the complete Excel analysis including:
-- Data
-- Calculated fields
-- Pivot Tables
-- Pivot Charts
-- Churn analysis
-- Final dashboard
-📄 Telco-Customer-Churn.csv
-Source dataset used for the customer churn analysis.
 
-🖼️ Dashboard Preview
+
+## 👤 Author
+
 <div align="center">
 
+**Simran Bhasin**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranbhasin310/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/simranbhasin310/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:simranbhasin310@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/simranbhasin310/SimranBhasin310.github.io)
 
 </div>
 
-👤 Author
-<div align="center">
-Simran Bhasin
-
-
-
-
-
-</div>
-
-<div align="center">
 ---
 
-*Submitted as part of the Future Interns Data Science & Analytics Internship — Task 2.*
+<div align="center">
 
-⭐ *If you found this analysis useful, consider starring the repo!*
-
-</div>
 Submitted as part of the Future Interns Data Science & Analytics Internship — Task 2.
+
 ⭐ If you found this analysis useful, consider starring the repo!
+
 </div>
