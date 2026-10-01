@@ -1,239 +1,112 @@
 <div align="center">
 
-📉 Customer Churn & Retention Analytics
+# 📉 Customer Churn & Retention Analytics
 
-Future Interns — Data Science & Analytics Internship | Task 2
+### Future Interns — Data Science & Analytics Internship | Task 2
 
+[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-Data%20Analysis-217346?style=flat-square)]()
+[![Dashboard](https://img.shields.io/badge/Dashboard-Customer%20Churn-0078D4?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)]()
 
-
-
-
-
-Turning customer subscription data into actionable insights on churn, retention, and customer behaviour.
+*Turning customer subscription data into a client-ready story of churn, retention, and customer behaviour.*
 
 </div>
 
-🎯 Objective
+---
 
-Analyze customer subscription data to identify churn patterns, retention drivers, and customer behaviour trends — then translate the findings into a clear, business-focused dashboard with actionable insights.
+## 🎯 Objective
 
-The analysis focuses on understanding who is churning, which services and contracts are associated with churn, and how customer tenure influences retention.
+Analyze customer subscription data to uncover **churn patterns**, **retention drivers**, and **customer behaviour trends** — then translate that into a client-ready Excel dashboard with actionable insights and recommendations.
 
-🗂️ Dataset
+## 🗂️ Dataset
 
-📦 Telco Customer Churn Dataset
+📦 **Telco Customer Churn Dataset**
 
-The dataset contains 7,043 customer records with information covering:
+7,043 customer records covering customer demographics, tenure, contract type, internet service, payment method, monthly charges, subscribed services, and churn status.
 
-Customer demographics
+## 🛠️ Tools Used
 
-Tenure
+| Tool | Purpose |
+|---|---|
+| 📊 Microsoft Excel | Data cleaning, analysis & dashboard |
+| 🔄 Pivot Tables | Churn analysis & segmentation |
+| 📈 Pivot Charts | Visualizing churn patterns |
+| 🧮 Excel Formulas | Calculated fields & customer grouping |
+| 🎨 Excel Dashboard | Client-ready business presentation |
 
-Contract type
-
-Internet service
-
-Payment method
-
-Monthly and total charges
-
-Subscription services
-
-Customer churn status
-
-The dataset was used to analyse customer-level churn behaviour and identify segments with different retention patterns.
-
-🛠️ Tools Used
-
-Tool
-
-Purpose
-
-📊 Microsoft Excel
-
-Data analysis & dashboard development
-
-🔄 Pivot Tables
-
-Churn segmentation & aggregation
-
-📈 Pivot Charts
-
-Visualizing churn patterns
-
-🧮 Excel Formulas
-
-Calculated fields & customer segmentation
-
-🎨 Excel Dashboard
-
-Client-ready presentation of insights
-
-📌 Headline Numbers
+## 📌 Headline Numbers
 
 <div align="center">
 
-👥 Total Customers
-
-🔴 Churned Customers
-
-🟢 Active Customers
-
-📉 Churn Rate
-
-7,043
-
-1,869
-
-5,174
-
-26.54%
+| 👥 Total Customers | 🔴 Churned Customers | 🟢 Active Customers | 📉 Churn Rate |
+|:---:|:---:|:---:|:---:|
+| **7,043** | **1,869** | **5,174** | **26.54%** |
 
 </div>
 
-🔬 Analysis Covered
+## 🔬 Analysis Covered
 
-✅ Data quality checks — duplicates, missing values & churn validation
+1. ✅ Data cleaning & quality checks
+2. 📉 Overall customer churn analysis
+3. 📅 Customer tenure & churn patterns
+4. 📄 Contract type & churn
+5. 🌐 Internet service & churn
+6. 💳 Payment method & churn
+7. 🔐 Online Security & Tech Support analysis
+8. 🧩 Total services & customer churn
+9. 💰 Monthly charges & churn patterns
+10. 💡 Key retention insights & recommendations
 
-📉 Overall customer churn analysis
+## 💡 Key Insights
 
-📅 Churn behaviour across customer tenure
+> **📅 Early-tenure risk** — Churn is particularly concentrated among customers in the earlier stages of their relationship, highlighting the importance of early customer engagement.
 
-📄 Contract type & churn analysis
+> **📄 Contract effect** — Month-to-month customers account for a substantially larger share of churn compared with customers on longer-term contracts.
 
-🌐 Internet service & churn comparison
+> **🌐 Internet service** — Fiber optic customers represent a large share of the churned customer base, making this segment important for deeper retention analysis.
 
-🔐 Online security & technical service analysis
+> **🧩 Service adoption** — Customers with different numbers of subscribed services show different churn patterns, providing an additional dimension for customer segmentation.
 
-💳 Payment method & customer churn
+> **🔐 Support & security** — Online Security and Tech Support provide useful service-level dimensions for understanding customer retention behaviour.
 
-👥 Senior citizen & customer segment analysis
+> **💰 Customer charges** — Monthly charge levels can be used alongside tenure and contract type to identify customer groups requiring closer retention attention.
 
-🧩 Total number of subscribed services
+📊 *The complete analysis, Pivot Tables, Pivot Charts, and dashboard are available in the Excel workbook.*
 
-💰 Monthly charges & churn patterns
+## 📈 Dashboard
 
-📊 Customer retention insights & recommendations
+The Excel dashboard brings the analysis together into a single business-focused view of **customer churn and retention**.
 
-💡 Key Insights
+Key dashboard areas include:
 
-📉 Overall Churn — 1,869 out of 7,043 customers have churned, resulting in an overall churn rate of approximately 26.54%.
+- Overall churn KPIs
+- Tenure analysis
+- Contract analysis
+- Internet service analysis
+- Payment method analysis
+- Customer service adoption
+- Monthly charge segmentation
 
-📅 Early-Tenure Risk — Churn is particularly concentrated among customers in the early stages of their relationship, highlighting the importance of early customer retention efforts.
+## 💡 Recommendations
 
-📄 Contract Behaviour — Month-to-month customers represent a substantially larger share of churn compared with customers on longer-term contracts.
+- 🤝 Strengthen onboarding and engagement during the early customer lifecycle.
+- 📄 Develop suitable incentives to encourage longer-term contracts.
+- 🌐 Investigate the customer experience and pricing factors associated with fiber-optic customers.
+- 🛠️ Explore relevant service bundles to increase customer engagement.
+- 🎯 Use customer segmentation to create more targeted retention strategies.
 
-🌐 Internet Service — Fiber optic customers account for a large share of total churn, making internet-service segmentation an important area for further retention analysis.
+## 📁 Project Files
 
-🧩 Service Adoption — Customers with fewer subscribed services show different churn behaviour from customers using a broader combination of services.
+| File | Description |
+|---|---|
+| `Churn_Dashboard.xlsx` | Excel analysis, Pivot Tables, Pivot Charts & dashboard |
+| `Telco-Customer-Churn.csv` | Customer churn dataset |
+| `README.md` | Project documentation |
 
-🔐 Additional Services — Services such as Online Security and Tech Support provide useful segmentation dimensions for understanding differences in customer retention.
+---
 
-📊 Dashboard
-
-The Excel dashboard brings the analysis together into a single business-focused view, allowing customer churn to be explored across key dimensions such as:
-
-Churn status
-
-Customer tenure
-
-Contract type
-
-Internet service
-
-Monthly charges
-
-Payment method
-
-Customer services
-
-Customer segments
-
-The dashboard is supported by Pivot Tables and Pivot Charts created from the cleaned customer-level dataset.
-
-📈 Key Business Questions
-
-This project answers questions such as:
-
-What percentage of customers are churning?
-
-Which customer groups have higher churn?
-
-How does tenure affect customer retention?
-
-Are month-to-month customers more likely to churn?
-
-How does internet service relate to churn?
-
-Does the number of subscribed services relate to retention?
-
-Which customer characteristics should be considered when designing retention strategies?
-
-💼 Business Recommendations
-
-Based on the observed churn patterns, businesses can consider:
-
-1. 🤝 Strengthen Early-Customer Retention
-
-Customers in the early stages of their relationship should receive stronger onboarding, engagement, and support initiatives.
-
-2. 📄 Encourage Longer-Term Contracts
-
-Customers on month-to-month contracts can be targeted with suitable incentives to encourage longer-term subscriptions.
-
-3. 🛠️ Improve Service Engagement
-
-Customers using fewer additional services can be evaluated for relevant service bundles that improve engagement and perceived value.
-
-4. 🌐 Investigate Fiber-Optic Churn
-
-The higher churn volume associated with fiber-optic customers warrants deeper investigation into pricing, service experience, and customer expectations.
-
-5. 🎯 Use Customer Segmentation
-
-Retention campaigns should be targeted using customer characteristics such as tenure, contract, service usage, and monthly charges rather than applying the same strategy to every customer.
-
-📁 Project Files
-
-File
-
-Description
-
-Telco-Customer-Churn.csv
-
-Original customer churn dataset
-
-Churn_Dashboard.xlsx
-
-Excel analysis & interactive dashboard
-
-README.md
-
-Project documentation
-
-🧠 Skills Demonstrated
-
-Data Cleaning
-
-Exploratory Data Analysis
-
-Customer Churn Analysis
-
-Customer Segmentation
-
-Excel Pivot Tables
-
-Pivot Charts
-
-Calculated Fields
-
-Dashboard Development
-
-Business Insight Generation
-
-Data Storytelling
-
-👤 Author
+## 👤 Author
 
 <div align="center">
 
@@ -250,8 +123,8 @@ Data Storytelling
 
 <div align="center">
 
-Submitted as part of the Future Interns Data Science & Analytics Internship.
+*Submitted as part of the Future Interns Data Science & Analytics internship.*
 
-⭐ If you found this project useful, consider starring the repository!
+⭐ *If you found this analysis useful, consider starring the repo!*
 
 </div>
