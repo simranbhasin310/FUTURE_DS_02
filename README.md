@@ -98,7 +98,9 @@ The Excel workbook brings the analysis together into a business-focused view of 
 
 **Simran Bhasin**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranbhasin310/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/simranbhasin310/) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:simranbhasin310@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/simranbhasin310/SimranBhasin310.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranbhasin310/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/simranbhasin310/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:simranbhasin310@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/simranbhasin310/SimranBhasin310.github.io)
 
 ---
 
