@@ -88,7 +88,7 @@ The Excel workbook brings the analysis together into a business-focused view of 
 
 | File | Description |
 |---|---|
-| `Churn_Dashboard.xlsx` | Excel workbook — raw data, formula-driven churn analysis, and dashboard charts |
+| `Customer_Retention_Churn_Analysis.xlsx` | Excel workbook — raw data, formula-driven churn analysis, and dashboard charts |
 | `Telco-Customer-Churn.csv` | Customer churn dataset |
 | `README.md` | Project documentation |
 
