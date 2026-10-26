@@ -65,8 +65,8 @@ Every churn rate in the workbook is a **live formula** referencing the raw custo
 
 ## 📈 Dashboard
 
-The dashboard presents a business-focused overview of customer churn and retention, highlighting key KPIs, customer segments, and actionable insights.
 ![Customer Churn Dashboard](dashboard.png)
+The dashboard presents a business-focused overview of customer churn and retention, highlighting key KPIs, customer segments, and actionable insights.
 The Excel workbook brings the analysis together into a business-focused view of **customer churn and retention**, organized into dedicated sheets:
 
 - Overall churn KPIs
